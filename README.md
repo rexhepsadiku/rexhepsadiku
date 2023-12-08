@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rexhep Sadiku</h1>
 <h3 align="center">A passionate backend developer from Kosova</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rexhepsadiku&label=Profile%20views&color=0e75b6&style=flat" alt="rexhepsadiku" /> </p>
-
-- 🌱 I’m currently learning **Typescript, React**
-
-- 💬 Ask me about **.NET**
+- 💬 Ask me about **.NET, Databases and everything related to softwares**
 
 - 📫 How to reach me **sadikurexhep@outlook.com**
 
