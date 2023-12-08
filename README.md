@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rexhep Sadiku</h1>
-<h3 align="center">A passionate backend developer from Kosova</h3>
+<h3 align="center">A passionate software developer from Kosova</h3>
 
 - 💬 Ask me about **.NET, Databases and everything related to softwares**
 
