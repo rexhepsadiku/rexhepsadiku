@@ -40,7 +40,7 @@ I work on a variety of projects ranging from **enterprise-level backend solution
 ## Let's Connect! 🌐
 
 - [LinkedIn](https://www.linkedin.com/in/rexhep)  
-- [Personal Website](https://www.rexhepsadiku.com)  
+- [Website](https://www.rexhepsadiku.com)  
 - Email: sadikurexhep@outlook.com
 
 ---
